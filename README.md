@@ -1,21 +1,14 @@
-## Hey 👋, I'm Lounis OULD BOUALI   
-  
-
+## Hey 👋, I'm Lounis  
+ 
 <a href="https://www.linkedin.com/in/lounis-ould-bouali-a0a38a112/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### Glad to see you here!  
 I am a passionate and detail-oriented data engineer with a background in computer science and business informatics. Proficient in Python, SQL, and Java, I have worked with a range of data warehousing and ETL tools and have experience with cloud-based platforms like AWS, GCP, and Azure. I am always eager to learn new technologies and tools to stay ahead of the curve. In my free time, I enjoy tinkering with code and experimenting with new data analysis techniques.
 
 If you need any further information about my projects and code, please don't hesitate to reach out. I'm more than happy to provide additional details and answer any questions you may have.  
   
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -32,8 +25,6 @@ If you need any further information about my projects and code, please don't hes
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 </div>  
-
-<br/>  
 
 <br/>  
 
