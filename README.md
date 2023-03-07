@@ -5,10 +5,9 @@
 </a>  
   
 ### Glad to see you here!  
-I am a passionate and detail-oriented data engineer with a background in computer science and business informatics. Proficient in Python, SQL, and Java, I have worked with a range of data warehousing and ETL tools and have experience with cloud-based platforms like AWS, GCP, and Azure. I am always eager to learn new technologies and tools to stay ahead of the curve. In my free time, I enjoy tinkering with code and experimenting with new data analysis techniques.
+I am a data engineer with a background in computer science and business informatics. Proficient in Python, SQL, and Java, I have worked with a range of data warehousing and ETL tools and have experience with cloud-based platforms like AWS, GCP, and Azure.
 
 If you need any further information about my projects and code, please don't hesitate to reach out. I'm more than happy to provide additional details and answer any questions you may have.  
-  
 
 ## Languages and Tools  
 <div align="center">  
